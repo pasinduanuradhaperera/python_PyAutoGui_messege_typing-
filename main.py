@@ -8,6 +8,6 @@ for i in range(10):
     time.sleep(1)
 num = 1000
 for i in range(num):
-    gui.write("huuuuuuu")
+    gui.write("Enter your text here")
     gui.press("enter")
     print(num - i, "to print")
